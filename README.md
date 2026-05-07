@@ -1,18 +1,59 @@
-# 💫 About Me:
-Hi, I'm Kunal Parmar! 👋<br><br>I am a Master of Computer Applications (MCA) student at KES Shroff College, Mumbai, passionate about building scalable financial technology and decentralized applications. My focus lies in Full-Stack Engineering and Blockchain development.<br><br>🔭 Currently working on: KoshPay, a crypto-to-fiat payment bridge mobile app.<br><br>🌱 I’m currently learning: Advanced Data Structures & Algorithms and Solana Ecosystem development.<br><br>👯 I’m looking to collaborate on: Open-source FinTech projects and Web3 initiatives (Targeting GSoC '26).<br><br>🎓 Education: MCA, University of Mumbai (Class of 2027).<br>
+# Hey, I'm Kunal Parmar 👋
 
+> *I build systems that actually run in production — not just repos.*
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kunnaaalll) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kunnaaalll) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:businesswidkunal@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kunnaaalll&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kunnaaalll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunnaaalll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Full-Stack Engineer & MCA student (Mumbai, 2027) focused on **AI systems**, **fintech infrastructure**, and **autonomous agents**. Currently building things that trade, deploy, and generate video — all without asking for permission.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kunnaaalll&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Building
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **[APEX ARIA](https://github.com/kunnaaalll/APEX)** | Autonomous trading system — 3-model LLM council, 5-layer confluence engine, ~100ms tick latency | Node.js · Python · Groq · Gemini · MT5 | 🟢 Live, trading 24/7 |
+| **[AXLE](https://github.com/kunnaaalll/axle-os)** | AI-powered Linux deployment engine — GitHub repo → live HTTPS EC2, zero manual config | Python · Flask · AWS · OpenAI · Ollama | 🔵 Deploying |
+| **[KoshPay](https://github.com/kunnaaalll/KoshPay)** | UPI-style crypto payments on Solana — OTP onboarding, QR scan & pay, Cashfree gateway | React Native · Node.js · PostgreSQL · Solana | 🟢 [Live](https://kosh-pay-9o9v.vercel.app) |
+| **[ReelTime](https://github.com/kunnaaalll/ReelTime)** | Fully local AI pipeline: RSS news → fact-verified → cinematic video, zero cloud cost | Python · LLaMA 3 · Wan2.1 · FFmpeg | 🔵 Deploying |
+| **[AlgoVision](https://github.com/kunnaaalll/AlgoVision)** | Interactive algorithm visualizer — 8+ algorithms, 30 steps/sec streaming | React.js · Spring Boot | 🟢 [Live](https://algo-vision-brown.vercel.app) |
+
+---
+
+## 🧠 What I Work With
+
+```
+Languages     Python · JavaScript/TypeScript · Java · SQL · MQL5 · C++
+AI & LLMs     Llama 3.1 70B · Gemini 1.5 · DeepSeek · OpenAI · Ollama
+GenAI         Wan2.1-T2V · AnimateDiff · Stable Diffusion · Piper TTS
+Web           React.js · Next.js · React Native · Node.js · Flask
+Data          PostgreSQL · SQLite · MongoDB · Prisma
+Cloud         AWS (EC2 · S3 · Packer) · Docker · Nginx
+Blockchain    Solana · Web3.js · Cashfree
+```
+
+---
+
+## 🤝 Open Source
+
+**[aden-hive/hive](https://github.com/aden-hive/hive)** — 10,000+ ⭐  
+Contributed a prompt engineering update that added **criticality classification** and severity labels to the AI issue-triage agent — PR merged to main.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kunnaaalll&theme=dark&hide_border=true&show_icons=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnaaalll&theme=dark&hide_border=true&layout=compact&langs_count=6" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunnaaalll-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/kunnaaalll)
+[![X](https://img.shields.io/badge/X-kunnaaalll-black?style=flat-square&logo=x)](https://x.com/kunnaaalll)
+[![Email](https://img.shields.io/badge/Email-businesswidkunal@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:businesswidkunal@gmail.com)
+
+---
+
+* Open to SWE / AI / Fintech internships and collaborations*
