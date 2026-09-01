@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:6366F1,100:06B6D4&height=220&section=header&text=Kunal%20Parmar&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineer%20%E2%80%A2%20AI%20%26%20Quantitative%20Infrastructure%20%E2%80%A2%20MCA%20'27&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0A0D14%2C50%3A6366F1%2C100%3A06B6D4&height=220&section=header&text=Kunal%20Parmar&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Systems%20Engineer%20%7C%20AI%20%26%20Quant%20Infrastructure%20%7C%20MCA%2027&descSize=16&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunnaaalll&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&ring_color=818CF8&title_color=818CF8&icon_color=06B6D4&text_color=C4B5FD&bg_color=0A0D14&border_radius=12&card_width=340" width="340" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunnaaalll&hide_border=true&show_icons=true&include_all_commits=true&ring_color=818CF8&title_color=818CF8&icon_color=06B6D4&text_color=C4B5FD&bg_color=0A0D14&border_radius=12&card_width=340" width="340" />
 
 ### 👤 About
 
@@ -448,13 +448,13 @@ Contributed a prompt engineering update that added **criticality classification*
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunnaaalll&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&ring_color=818CF8&title_color=818CF8&icon_color=06B6D4&text_color=C4B5FD&bg_color=0A0D14&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kunnaaalll&hide_border=true&show_icons=true&include_all_commits=true&ring_color=818CF8&title_color=818CF8&icon_color=06B6D4&text_color=C4B5FD&bg_color=0A0D14&border_radius=12" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnaaalll&theme=midnight-purple&hide_border=true&layout=compact&langs_count=8&title_color=818CF8&text_color=C4B5FD&bg_color=0A0D14&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunnaaalll&hide_border=true&layout=compact&langs_count=8&title_color=818CF8&text_color=C4B5FD&bg_color=0A0D14&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunnaaalll&theme=midnight-purple&hide_border=true&background=0A0D14&ring=818CF8&fire=06B6D4&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6B7280&border_radius=12" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunnaaalll&hide_border=true&background=0A0D14&ring=818CF8&fire=06B6D4&currStreakNum=FFFFFF&currStreakLabel=C4B5FD&sideNums=FFFFFF&sideLabels=C4B5FD&dates=6B7280&border_radius=12" width="500" />
 
 </div>
 
@@ -482,6 +482,6 @@ Contributed a prompt engineering update that added **criticality classification*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D14,50:6366F1,100:06B6D4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0A0D14%2C50%3A6366F1%2C100%3A06B6D4&height=100&section=footer" width="100%" />
 
 </div>
