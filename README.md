@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C50%3A6366F1%2C100%3A06B6D4&height=200&section=header&text=Kunal%20Parmar&fontSize=50&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=8B93FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+systems+that+run+in+production+%E2%80%94+not+just+repos.)](https://github.com/kunnaaalll)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1200&color=8B93FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Building+systems+that+run+in+production+,not+just+repos.)](https://github.com/kunnaaalll)
 
 </div>
 
