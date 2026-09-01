@@ -80,7 +80,7 @@ Contributed a prompt engineering update adding **criticality classification** an
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:businesswidkunal@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kunalonchain.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://kunalonchain.xyz)
 
 <br/>
 
