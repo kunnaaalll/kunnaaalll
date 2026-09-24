@@ -20,7 +20,7 @@ I build at the intersection of **quantitative finance**, **autonomous AI**, and 
 
 | Project | What It Does | Stack | Status |
 |:--------|:-------------|:------|:------:|
-| **[ApeXQuanT V3.1](https://github.com/kunnaaalll/APEX)** | Autonomous quant trading — 11 gRPC microservices, 9-gate cryptographic risk engine, 6.48M bars backtested | Rust · Tokio · gRPC · Python · Next.js 14 | 🟢 Live 24/7 |
+| **[ApeXQuanT](https://github.com/kunnaaalll/ApeXQuanT-ShowCase.git)** | Autonomous quant trading — 11 gRPC microservices, 9-gate cryptographic risk engine, 6.48M bars backtested | Rust · Tokio · gRPC · Python · Next.js 14 | 🟢 Live 24/7 |
 | **[SenTineL](https://github.com/kunnaaalll/SenTineL)** | Agentic financial copilot — SEC EDGAR fact matrices, dual RAG/agent routing, zero hallucinations | Next.js 16 · FastAPI · LangGraph · Pinecone | ✅ 533 Tests |
 | **[RingWarden](https://github.com/kunnaaalll/RingWarden)** | Graph fraud detection — multi-identifier abuse ring clustering, 100% recall, 0% false positives | Python · NetworkX · LightGBM · FastAPI | 🏆 Razorpay AI |
 | **[AXLE OS](https://github.com/kunnaaalll/axle-os)** | AI deployment engine — GitHub repo → live HTTPS Ubuntu stack in <60s, zero config | Python · Asyncio DAG · Flask · React · AWS | 🔵 Deploying |
